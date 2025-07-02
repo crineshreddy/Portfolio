@@ -108,7 +108,7 @@ body {
 
 .profile-image {
     width: 192px;
-    height: 290px;
+    height: 210px;
     border-radius: 50%;
     object-fit: cover;
     border: 8px solid white;
@@ -172,8 +172,8 @@ body {
 }
 
 .btn-secondary {
-    background: white;
-    color: #2563eb;
+    background: #2563eb;
+    color: white;
     border: 2px solid #2563eb;
 }
 
